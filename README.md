@@ -98,3 +98,7 @@ Decoded Md5:
 
 # 🏆 Final Answer
 The hero that will protect the Philippines from the China Sea is **Harambe**! 🦍
+
+
+## License
+This project is licensed under the Creative Commons - see the [LICENSE](https://github.com/elkumo/NSSECU1-CTF1/blob/main/LICENSE) file for details.
